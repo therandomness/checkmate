@@ -1,0 +1,7 @@
+[package]
+name = "checkmate"
+version = "0.1.0"
+authors = ["Dominic J.P. Crutchley <git@5d6.co.uk>"]
+edition = "2018"
+
+[dependencies]
